@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Milothedog56
+- 👀 I’m interested in 420
+- 🌱 I’m currently learning C#
